@@ -1,3 +1,5 @@
 .docker/nginx/logs/*
 .docker/mysql/*
 .idea
+.env
+.env.local
